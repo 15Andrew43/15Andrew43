@@ -44,14 +44,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
 
 ### My stat
 <div id="stat" align="center">
@@ -59,11 +51,6 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=15Andrew43"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=15Andrew43"/>
 </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=15Andrew43)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=15Andrew43&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
